@@ -1,6 +1,6 @@
 # Demo-Repository
 This is my first demo repository.
 <br>
-Author - Hafsa Khurram.
+Author - Hafsa Khurram (Student at COMSATS)
 <br>
 Learning Git and GitHub. 
